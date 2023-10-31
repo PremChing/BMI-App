@@ -1,10 +1,7 @@
 # BMI-App
 This is a BMI calculator application from were we can know our body condition.
 
-![StartActivity](https://github.com/PremChing/BMI-App/assets/91532603/f9976384-0b42-4cf3-b5d8-e9ec6d6852d1)
-
-![Healthy](https://github.com/PremChing/BMI-App/assets/91532603/5618dc64-58e3-434f-b4a7-b383a899b44f)
-
-![OverWeight](https://github.com/PremChing/BMI-App/assets/91532603/3eeaabbf-1751-410a-9992-bee44c849bfe)
-
-![UnderWeight](https://github.com/PremChing/BMI-App/assets/91532603/4cc70375-767f-4728-8a91-e78703f1693b)
+![StartActivity (1)](https://github.com/PremChing/BMI-App/assets/91532603/d84a76d1-4dff-4a76-8785-260bff0daf48)
+![UnderWeight (1)](https://github.com/PremChing/BMI-App/assets/91532603/08df5e7e-b6c7-41a5-a8db-eb8fb103378d)
+![OverWeight (1)](https://github.com/PremChing/BMI-App/assets/91532603/561910cb-b22a-454b-b0bb-a335b9e793b4)
+![Healthy (1)](https://github.com/PremChing/BMI-App/assets/91532603/f30cd6eb-0b0d-41b4-a58e-68f1b2029e9f)
